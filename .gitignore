@@ -1,0 +1,7 @@
+deeplface/
+__pycache__/
+
+split_dataset_c/
+machineface/
+
+face_dataset/
