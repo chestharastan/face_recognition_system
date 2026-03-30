@@ -8,8 +8,8 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from helpers.dnn_detector import DNNFaceDetector
 from helpers.haar_detector import HaarFaceDetector
 
-MODEL_PATH = "trainer.yml"
-LABELS_PATH = "labels.txt"
+MODEL_PATH = "/home/thareah/Desktop/Face_pp/machineface/trainer.yml"
+LABELS_PATH = "/home/thareah/Desktop/Face_pp/machineface/labels.txt"
 
 # -------------------------------
 # Load label map

@@ -2,7 +2,7 @@ import os
 import cv2
 
 MODEL_PATH = "trainer.yml"
-LABEL_PATH = "labels.txt"
+LABEL_PATH = "machineface/labels.txt"
 VALIDATION_PATH = "split_dataset_c/validation"
 
 def load_labels(label_file):
