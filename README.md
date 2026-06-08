@@ -1,9 +1,3 @@
-Your README is already good 👍 — it just needs **grammar fixes, clearer explanations, and a cleaner structure** so it looks professional on GitHub.
-
-Below is a **cleaned and improved version** while keeping your idea.
-
----
-
 # Face Recognition System
 
 This project captures a user's face from a camera and identifies the person using two different approaches:
